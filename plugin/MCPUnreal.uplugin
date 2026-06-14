@@ -17,6 +17,7 @@
 		{ "Name": "PCG", "Enabled": true },
 		{ "Name": "GameplayAbilities", "Enabled": true },
 		{ "Name": "Niagara", "Enabled": true },
+		{ "Name": "RemoteControl", "Enabled": true },
 		{ "Name": "Fab", "Enabled": true }
 	],
 	"Modules": [
